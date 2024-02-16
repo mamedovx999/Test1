@@ -15,4 +15,5 @@ using System.ComponentModel.Design;
 #endregion
 #region
 int a = 19;
+int b = 20;
 #endregion
